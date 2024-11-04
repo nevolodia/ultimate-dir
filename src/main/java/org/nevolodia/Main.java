@@ -155,7 +155,7 @@ public class Main
 				"Supported commands are:\n" +
 				"\tcd - select a new path,\n" +
 				"\tlist - list files in the directory,\n" +
-				"\tthis - print current directory,\n" +
+				"\tthis - print current directory path,\n" +
 				"\tcontains x - list files containing word x,\n" +
 				"\t../ - navigate to parent directory,\n" +
 				"\texit - exit the application.\n"
